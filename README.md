@@ -1,5 +1,5 @@
 ![Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQEHnMSE--FcoQ/profile-displaybackgroundimage-shrink_350_1400/B4DZq7rtxbJMAY-/0/1764085392397?e=1765411200&v=beta&t=Bo_-VkEpx0lIEd7AuD5l-kQJaYCppk--Le6mtquAXuY)
-### Hi there 👋, my name is Shamim Alam
+### Hi there 👋, My Name is Shamim Alam
 #### Web Developer
 
 🚀 I'm a passionate Web Developer focusing on building clean, responsive and user-friendly websites.
