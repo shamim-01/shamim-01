@@ -1,38 +1,16 @@
-# Hi there, I'm Shamim 👋  
-### Frontend Web Developer | HTML | CSS | JavaScript | React Learner  
+### Hi there 👋, my name is Shamim Alam
+#### Web Developer
+![Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQEHnMSE--FcoQ/profile-displaybackgroundimage-shrink_350_1400/B4DZq7rtxbJMAY-/0/1764085392397?e=1765411200&v=beta&t=Bo_-VkEpx0lIEd7AuD5l-kQJaYCppk--Le6mtquAXuY)
 
-🚀 I'm a passionate Web Developer focusing on building clean, responsive and user-friendly websites.  
-Currently improving my skills in modern frontend technologies like **JavaScript** and **React**.
+🚀 I'm a passionate Web Developer focusing on building clean, responsive and user-friendly websites.
+Currently improving my skills in modern frontend technologies like JavaScript and React.
 
----
 
-### 🔥 Skills  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Currently Learning:** React, Tailwind CSS  
-- **Tools:** VS Code, Git, GitHub, Chrome DevTools  
 
----
+Skills: REACT / JS / HTML / CSS
 
-### 📌 About Me  
-- 🌱 Currently learning **React.js**  
-- 🔭 Working on improving my **frontend development** skills  
-- 💬 Ask me about **HTML, CSS, JavaScript**  
-- 📚 Love solving problems & building UI  
-- ⚡ Fun fact: I debug more than I code 😄  
+- 🔭 I’m currently working on this page. 
 
----
 
-### 📫 Connect With Me  
-- **Email:** shamimalam4949@gmail.com
-- **Facebook:** [https://facebook.com/yourprofile  ](https://www.facebook.com/shamim.alam.78/)
-- **LinkedIn:** [https://linkedin.com/in/yourprofile ](https://www.linkedin.com/in/shamim-alam-620719330/) 
 
----
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamim-01&show_icons=true&theme=react)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-01&layout=compact&theme=react)
-
----
-
-⭐ **Thanks for visiting my profile!**  
