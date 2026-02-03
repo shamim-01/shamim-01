@@ -10,7 +10,7 @@
 
 
 <!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->
-<h3 align="center">Data Analyst | SQL • Excel • Power BI | Front-End DevelopmenT | HTML • CSS • JAVASCRIPT</h3>
+<h3 align="center">Data Analysis Enthusiast | SQL • Excel • Power BI | Front-End DevelopmenT | HTML • CSS • JAVASCRIPT</h3>
 
 ---
 
