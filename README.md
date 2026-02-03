@@ -1,7 +1,12 @@
 <p align="center">
   <img src="github.jpg" alt="Profile Banner" />
 </p>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Shamim+Alam;Data+Analyst+%7C+SQL+Excel+Power+BI;Frontend+Developer&size=28" />
+</h1>
 
+
+<!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->
 <h3 align="center">Data Analyst | SQL • Excel • Power BI | Front-End DevelopmenT | HTML • CSS • JAVASCRIPT</h3>
 
 ---
