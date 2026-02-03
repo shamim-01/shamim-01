@@ -2,10 +2,6 @@
   <img src="github.jpg" alt="Profile Banner" />
 </p>
 
-
-
-
-<h1 align="center">Shamim</h1>
 <h3 align="center">Data Analyst | SQL • Excel • Power BI | Front-End Development</h3>
 
 ---
