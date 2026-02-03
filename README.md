@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://github.com/shamim-01.png" width="160" style="border-radius:50%" />
+  <img src="github.jpg" alt="Profile Banner" />
 </p>
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME.png" width="160" style="border-radius:50%" />
-</p>
+
+
 
 
 <h1 align="center">Shamim</h1>
