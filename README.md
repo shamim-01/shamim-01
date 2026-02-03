@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shamim+Alam;Data+Analyst+%7C+SQL+Excel+Power+BI;Frontend+Developer&size=28&center=true&vCenter=true" 
+    src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shamim+Alam;&size=28&center=true&vCenter=true" 
     alt="Typing SVG" 
   />
 </p>
