@@ -1,20 +1,64 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQEHnMSE--FcoQ/profile-displaybackgroundimage-shrink_350_1400/B4DZq7rtxbJMAY-/0/1764085392397?e=1765411200&v=beta&t=Bo_-VkEpx0lIEd7AuD5l-kQJaYCppk--Le6mtquAXuY)
-### Hi there 👋, My Name is Shamim Alam
-#### Web Developer
+<p align="center">
+  <img src="<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/b13dbf7e-3b26-4b6d-96d4-b293223bb6e9" />
+" width="160" style="border-radius:50%" />
+</p>
 
-🚀 I'm a passionate Web Developer focusing on building clean, responsive and user-friendly websites.
-Currently improving my skills in modern frontend technologies like JavaScript and React.
+<h1 align="center">Shamim</h1>
+<h3 align="center">Data Analyst | SQL • Excel • Power BI | Front-End Development</h3>
 
+---
 
+## Profile Summary
+Detail-oriented **Data Analyst** with strong expertise in **SQL, Excel, and Power BI**, focused on data cleaning, analysis, and dashboard development for business insights.  
+Additionally skilled in **Front-End Development** using **HTML, CSS, JavaScript, and React**, enabling effective presentation of data through clean, responsive user interfaces.
 
-Skills: REACT / JS / HTML / CSS
+Background in **Computer Science**, combining analytical thinking with solid programming fundamentals.
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning **React.js**  
-- 👯 I’m looking to collaborate on **github** 
-- 💬 Ask me about  **HTML, CSS, JavaScript**   
-- ⚡ Fun fact: I debug more than I code 😄  
+---
 
+## Core Competencies
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Dashboard & KPI Reporting  
+- Data Visualization & Storytelling  
+- Responsive UI Development  
+- Data-Driven Web Interfaces  
+
+---
+
+## Technical Skills
+
+### Data Analysis
+- SQL (Joins, CTEs, Subqueries, Aggregations)
+- Microsoft Excel (Pivot Tables, Power Query, Advanced Functions)
+- Power BI (DAX, Interactive Dashboards, Reports)
+
+### Front-End Development
+- HTML5, CSS3
+- JavaScript (ES6+)
+- React
+- Responsive & Accessible UI Design
+
+### Programming Foundations
+- C
+- C++
+
+---
+
+## Featured Projects
+- **Sales Performance Dashboard** — Power BI  
+  *Revenue trends, KPI tracking, business insights*
+
+- **Customer Data Analysis** — SQL + Excel  
+  *Data cleaning, segmentation, insight generation*
+
+- **Data Visualization Web App** — HTML, CSS, JavaScript  
+  *Interactive charts and user-friendly data presentation*
+
+- **Personal Portfolio Website** — Front-End  
+  *Responsive design showcasing projects and skills*
+
+---
 
 
 ## 🌐 Socials:
