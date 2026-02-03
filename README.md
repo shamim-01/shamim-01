@@ -2,13 +2,13 @@
   <img src="github.jpg" alt="Profile Banner" />
 </p>
 
-<h3 align="center">Data Analyst | SQL • Excel • Power BI | Front-End Development</h3>
+<h3 align="center">Data Analyst | SQL • Excel • Power BI | Front-End DevelopmenT | HTML • CSS • JAVASCRIPT</h3>
 
 ---
 
 ## Profile Summary
 Detail-oriented **Data Analyst** with strong expertise in **SQL, Excel, and Power BI**, focused on data cleaning, analysis, and dashboard development for business insights.  
-Additionally skilled in **Front-End Development** using **HTML, CSS, JavaScript, and React**, enabling effective presentation of data through clean, responsive user interfaces.
+Additionally skilled in **Front-End Development** using **HTML, CSS, JavaScript**, enabling effective presentation of data through clean, responsive user interfaces.
 
 Background in **Computer Science**, combining analytical thinking with solid programming fundamentals.
 
@@ -34,7 +34,6 @@ Background in **Computer Science**, combining analytical thinking with solid pro
 ### Front-End Development
 - HTML5, CSS3
 - JavaScript (ES6+)
-- React
 - Responsive & Accessible UI Design
 
 ### Programming Foundations
