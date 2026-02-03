@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/b13dbf7e-3b26-4b6d-96d4-b293223bb6e9" />
-" width="160" style="border-radius:50%" />
+  <img src="https://github.com/shamim-01.png" width="160" style="border-radius:50%" />
 </p>
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME.png" width="160" style="border-radius:50%" />
+</p>
+
 
 <h1 align="center">Shamim</h1>
 <h3 align="center">Data Analyst | SQL • Excel • Power BI | Front-End Development</h3>
