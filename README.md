@@ -50,22 +50,6 @@ Background in **Computer Science**, combining analytical thinking with solid pro
 
 ---
 
-## Featured Projects
-- **Sales Performance Dashboard** — Power BI  
-  *Revenue trends, KPI tracking, business insights*
-
-- **Customer Data Analysis** — SQL + Excel  
-  *Data cleaning, segmentation, insight generation*
-
-- **Data Visualization Web App** — HTML, CSS, JavaScript  
-  *Interactive charts and user-friendly data presentation*
-
-- **Personal Portfolio Website** — Front-End  
-  *Responsive design showcasing projects and skills*
-
----
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shamim.alam.78) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sha_mim_49) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shamim-alam-620719330) 
 
