@@ -81,5 +81,5 @@ Background in Computer Science, combining strong programming fundamentals with a
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shamim-01&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+![](https://komarev.com/ghpvc/?username=shamim-01&label=Profile+Views&color=0e75b6)
 
