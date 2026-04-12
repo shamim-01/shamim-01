@@ -83,8 +83,7 @@ Background in Computer Science, combining strong programming fundamentals with a
 ### 📊 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=shamim-01&label=Profile%20Views&color=0e75b6)
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=shamim-01&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-01&layout=compact)
+## 🌱 I’m currently learning:
+- React
+- Next.JS
+- Problem Solving
