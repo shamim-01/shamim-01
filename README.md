@@ -83,8 +83,8 @@ Background in Computer Science, combining strong programming fundamentals with a
 ### 📊 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=shamim-01&label=Profile%20Views&color=0e75b6)
 
-### 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-01&layout=compact)
+### 📊 GitHub Stats
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamim-01&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=shamim-01&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-01&layout=compact)
