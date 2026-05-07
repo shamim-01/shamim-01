@@ -7,7 +7,6 @@
   src="https://readme-typing-svg.herokuapp.com?lines=Hi%2C%20I'm%20Shamim%20Alam;Frontend%20Developer;MERN%20Stack%20Learner&size=28&center=true&vCenter=true&width=500" 
   alt="Typing SVG"
 />
-  />
 </p>
 
 
