@@ -59,13 +59,19 @@ I enjoy turning ideas into clean, functional, and user-friendly web experiences.
 ## 🛠 Tech Stack
 
 ### Frontend
-HTML5 • CSS3 • JavaScript • React • Tailwind CSS  
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS  
 
 ### Backend (Learning)
 Node.js • Express.js • MongoDB  
 
 ### Tools
-Git • GitHub • VS Code  
+- Git
+- GitHub
+- VS Code  
 
 ---
 
@@ -97,11 +103,6 @@ Git • GitHub • VS Code
 
 ---
 
-## ✨ Quote
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
-
----
 
 ## 👁 Profile Views
 
