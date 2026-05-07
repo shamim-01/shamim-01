@@ -4,83 +4,84 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?lines=Hi%2C%20I'm%20Shamim%20Alam;Frontend%20Developer;MERN%20Stack%20Learner&size=28&center=true&vCenter=true&width=500" 
+    src="https://readme-typing-svg.herokuapp.com?lines=Hi%2C%20I'm%20Shamim%20Alam;Frontend%20Developer;MERN%20Stack%20Developer%20in%20Progress&size=28&center=true&vCenter=true&width=550" 
     alt="Typing SVG"
   />
 </p>
 
 <h3 align="center">
-Frontend Developer | Learning MERN Stack | React • Node.js • Express.js • MongoDB
+Frontend Developer | React • Node.js • Express.js • MongoDB | Building Modern Web Apps
 </h3>
 
 ---
 
-## 👨‍💻 Profile Summary
+## 👨‍💻 About Me
 
-Frontend Developer skilled in **React, Tailwind CSS, HTML, CSS, and JavaScript**, focused on building clean, responsive, and user-friendly web applications.  
+Frontend Developer passionate about building **fast, responsive, and scalable web applications** using modern JavaScript technologies.  
 
-Currently learning the **MERN stack (MongoDB, Express.js, React, Node.js)** to develop full-stack applications and strengthen backend development skills.
+Currently focusing on the **MERN stack**, developing full-stack projects to strengthen backend logic and real-world application development skills.
 
-Strong foundation in **Computer Science**, with a problem-solving mindset and passion for building real-world web applications.
+I enjoy turning ideas into clean, functional, and user-friendly web experiences.
 
 ---
 
-## ⚙️ Core Competencies
+## 🚀 What I'm Building
 
-- Front-End Development with React & Tailwind CSS  
-- Responsive & Interactive UI Development  
-- Component-Based Architecture (React)  
+- Full-stack MERN CRUD applications  
+- REST API-based backend systems  
+- Responsive React applications  
+- Portfolio & real-world clone projects  
+
+---
+
+## ⚙️ Core Skills
+
+- React.js (Component-based architecture, Hooks)  
+- JavaScript (ES6+)  
+- Tailwind CSS (Modern UI design)  
 - REST API Integration  
-- Full-Stack Development (MERN Learning)  
-- Clean UI/UX Implementation  
-- Git & GitHub Version Control  
+- Responsive Web Design  
+- Git & GitHub Workflow  
 - Problem Solving & Debugging  
 
 ---
 
-## 🛠 Technical Skills
+## 🧠 Currently Learning
 
-### Front-End Development
-- HTML5, CSS3, Tailwind CSS  
-- JavaScript (ES6+)  
-- React.js  
-- Responsive Web Design  
-
-### Backend (Learning)
 - Node.js  
 - Express.js  
 - MongoDB  
-- REST APIs  
-
-### Programming
-- C  
-- C++  
-- JavaScript (ES6+)  
+- Authentication (JWT)  
+- Advanced MERN Architecture  
 
 ---
 
-## 🌐 Socials
+## 🛠 Tech Stack
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shamim.alam.78)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sha_mim_49)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shamim-alam-620719330)
+### Frontend
+HTML5 • CSS3 • JavaScript • React • Tailwind CSS  
+
+### Backend (Learning)
+Node.js • Express.js • MongoDB  
+
+### Tools
+Git • GitHub • VS Code  
 
 ---
 
-## 💻 Tech Stack
+## 📌 Featured Projects
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 📚 Book Management System (MERN CRUD App)  
+- 🌐 Portfolio Website (React + Tailwind)  
+- 🌦 Weather App (API Integration)  
 
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🌐 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://facebook.com/shamim.alam.78)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/sha_mim_49)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shamim-alam-620719330)
 
 ---
 
@@ -96,9 +97,9 @@ Strong foundation in **Computer Science**, with a problem-solving mindset and pa
 
 ---
 
-## ✍️ Quote
+## ✨ Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> “Consistency beats motivation. Build daily.”
 
 ---
 
