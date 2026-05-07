@@ -99,7 +99,7 @@ Git • GitHub • VS Code
 
 ## ✨ Quote
 
-> “Consistency beats motivation. Build daily.”
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
 
 ---
 
