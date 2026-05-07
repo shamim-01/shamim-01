@@ -10,27 +10,32 @@
 
 
 <!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->
-<h3 align="center">Data Analysis Enthusiast | SQL • Excel • Power BI | Front-End Development | HTML • CSS • JavaScript • Tailwind CSS • React</h3>
+<h3 align="center">Frontend Developer | Learning MERN Stack | React • Node.js • Express.js • MongoDB</h3>
 
 ---
 
 ## Profile Summary
 
-Detail-oriented Front-End Developer skilled in React, Tailwind CSS, HTML, CSS, and JavaScript, creating clean, responsive, and interactive web applications.
-Also experienced in Data Analysis using SQL, Excel, and Power BI, capable of transforming data into actionable insights and integrating them into web interfaces.
+## Profile Summary
 
-Background in Computer Science, combining strong programming fundamentals with analytical thinking for full-stack problem solving.
+Passionate Front-End Developer skilled in React, Tailwind CSS, HTML, CSS, and JavaScript, with experience building clean, responsive, and user-friendly web applications. Currently learning the MERN stack, including Node.js, Express.js, and MongoDB, to develop full-stack applications and strengthen backend development skills.
+
+Background in Computer Science with strong programming fundamentals and problem-solving abilities, focused on creating modern and efficient web solutions.
 
 ---
 
 ## Core Competencies
-- Front-End Development with React & Tailwind CSS
-- Responsive & Interactive UI Design
-- Data-Driven Web Interfaces
-- HTML, CSS, & JavaScript Programming
-- Dashboard & KPI Integration
-- Data Visualization & Storytelling Data-Driven Web Interfaces  
 
+* Front-End Development with React & Tailwind CSS
+* Responsive & Interactive UI Design
+* HTML, CSS & JavaScript Development
+* React Component-Based Architecture
+* REST API Integration
+* MERN Stack Learning & Development
+* Problem Solving & Debugging
+* Clean & User-Friendly UI Development
+* Version Control with Git & GitHub
+  
 ---
 
 ## Technical Skills
@@ -41,14 +46,22 @@ Background in Computer Science, combining strong programming fundamentals with a
 - Power BI (DAX, Interactive Dashboards, Reports)
 
 ### Front-End Development
-- HTML5, CSS3, TailwindCss
-- JavaScript (ES6+) and React
-- Responsive & Accessible UI Design
+- HTML5, CSS3, Tailwind CSS
+- JavaScript (ES6+) & React
+- Responsive & User-Friendly UI Design
+- REST API Integration
+- Component-Based Development
+
+### MERN Stack Learning
+- Node.js
+- Express.js
+- MongoDB
+- Full-Stack Application Development Basics
 
 ### Programming Foundations
 - C
 - C++
-- java
+- JavaScript (ES6+)
 
 ---
 
@@ -86,4 +99,6 @@ Background in Computer Science, combining strong programming fundamentals with a
 ## 🌱 I’m currently learning:
 - React
 - Next.JS
+- Express.JS
+- MongoDB
 - Problem Solving
