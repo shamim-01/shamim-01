@@ -16,8 +16,6 @@
 
 ## Profile Summary
 
-## Profile Summary
-
 Passionate Front-End Developer skilled in React, Tailwind CSS, HTML, CSS, and JavaScript, with experience building clean, responsive, and user-friendly web applications. Currently learning the MERN stack, including Node.js, Express.js, and MongoDB, to develop full-stack applications and strengthen backend development skills.
 
 Background in Computer Science with strong programming fundamentals and problem-solving abilities, focused on creating modern and efficient web solutions.
