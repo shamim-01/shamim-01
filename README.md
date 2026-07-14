@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGpt github.png" alt="Profile Banner" />
+  <img src="ChatGPT github.png" alt="Profile Banner" />
 </p>
 
 <p align="center">
