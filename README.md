@@ -149,7 +149,7 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamim-01&theme=radical&row=1&column=7&margin-w=8&no-bg=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shamim-01&theme=radical&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71" alt="GitHub Streak" />
 </p>
 
 <sub>⚠️ If the trophy row above doesn't render, the public trophy service is temporarily rate-limited — see note below.</sub>
