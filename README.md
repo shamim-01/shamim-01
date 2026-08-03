@@ -150,10 +150,6 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:2C5364&height=3" />
 
-<sub>⚠️ If the trophy row above doesn't render, the public trophy service is temporarily rate-limited — see note below.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:2C5364&height=3" />
-
 <div align="center">
 
 ## 🤝 Let's Connect
