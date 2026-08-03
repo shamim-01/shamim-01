@@ -108,7 +108,7 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
       <h4>📚 Book Management System</h4>
       A full-featured MERN CRUD app — Add, Update, Delete &amp; Search functionality.<br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb"/> <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express"/><br/><br/>
-      🔗 <a href="#">Repository</a> &nbsp;|&nbsp; 🌐 <a href="#">Live Demo</a>
+      🔗 <a href="(https://github.com/shamim-01/book-management)">Repository</a> &nbsp;|&nbsp; 🌐 <a href="(https://book-management-gold-seven.vercel.app)">Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Portfolio Website</h4>
