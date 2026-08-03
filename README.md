@@ -32,7 +32,7 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thick.png" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:2C5364&height=3" />
 
 ## 🧭 About Me
 
@@ -98,7 +98,7 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thick.png" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:2C5364&height=3" />
 
 ## 📌 Featured Projects
 
@@ -135,7 +135,7 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 
 > 💡 **Tip:** Replace the `#` links above with your actual repo and live demo links. Adding a small screenshot or GIF for each project makes it even more impressive to recruiters.
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thick.png" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:2C5364&height=3" />
 
 ## 📊 GitHub Stats
 
@@ -152,7 +152,7 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
   <img src="https://github-profile-trophy.vercel.app/?username=shamim-01&theme=radical&row=1&column=7&margin-w=8&no-bg=true" />
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thick.png" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:2C5364&height=3" />
 
 <div align="center">
 
