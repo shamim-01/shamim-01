@@ -2,16 +2,22 @@
 
 <img src="ChatGPT github.png" alt="Profile Banner" width="100%" />
 
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2ECC71&height=120&section=header" />
+
+<div align="center">
+
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shamim+Alam+%F0%9F%91%8B;Frontend+Developer;MERN+Stack+Developer+in+Progress;Turning+Ideas+Into+Clean+Code" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shamim+Alam+%F0%9F%91%8B;Frontend+Developer;MERN+Stack+Developer+in+Progress;Turning+Ideas+Into+Clean+Code" 
   alt="Typing SVG"
 />
 
-<h3>Frontend Developer &nbsp;•&nbsp; React &amp; Tailwind Specialist &nbsp;•&nbsp; MERN Stack Learner</h3>
+<h3>Frontend Developer &nbsp;·&nbsp; React &amp; Tailwind Specialist &nbsp;·&nbsp; MERN Stack Learner</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ECC71?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-2C5364?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
 <p>
@@ -26,32 +32,36 @@
 
 <br/>
 
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thick.png" />
+
 ## 🧭 About Me
 
 I'm a **Frontend Developer** who loves building fast, responsive, and user-friendly web applications with **React.js** and **Tailwind CSS**. My goal isn't just to make things work — it's to write **clean, reusable, and scalable** code.
 
 I'm currently leveling up in the **MERN Stack** so I can design, build, and deploy complete full-stack products on my own.
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**⚡ Quick Facts**
-- 🎯 Focus: Frontend + MERN Stack
-- 🌱 Currently mastering: Node.js, Express.js, MongoDB, JWT
-- 💬 Best at: React Hooks, Component Architecture, Tailwind CSS
-- 🎓 Learning style: Project-based, real-world clones
-- 🤝 Open to: Internship / Junior Frontend roles
+### ⚡ Quick Facts
+- 🎯 **Focus:** Frontend + MERN Stack
+- 🌱 **Currently mastering:** Node.js, Express.js, MongoDB, JWT
+- 💬 **Best at:** React Hooks, Component Architecture, Tailwind CSS
+- 🎓 **Learning style:** Project-based, real-world clones
+- 🤝 **Open to:** Internship / Junior Frontend roles
 
 </td>
 <td width="50%" valign="top">
 
-**📈 My Journey**
-- ✅ HTML, CSS, JavaScript (ES6+) — Solid
-- ✅ React.js + Tailwind CSS — Comfortable
-- 🔄 Node.js + Express.js — In progress
-- 🔄 MongoDB + Authentication (JWT) — In progress
-- 🔜 Full MERN Deployment — Next milestone
+### 📈 My Journey
+| Skill | Progress |
+|---|---|
+| HTML, CSS, JS (ES6+) | 🟩🟩🟩🟩🟩 Solid |
+| React.js + Tailwind | 🟩🟩🟩🟩🟨 Comfortable |
+| Node.js + Express.js | 🟩🟩🟨⬜⬜ In progress |
+| MongoDB + JWT Auth | 🟩🟩🟨⬜⬜ In progress |
+| Full MERN Deployment | 🟩⬜⬜⬜⬜ Next milestone |
 
 </td>
 </tr>
@@ -62,24 +72,24 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 ## 🛠 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode&perline=6&theme=dark" />
 </div>
 
 <br/>
 
-<table>
+<table width="100%">
 <tr><th align="left" width="22%">Category</th><th align="left">Technologies</th></tr>
-<tr><td><b>Frontend</b></td><td>React.js (Hooks, Component Architecture) • JavaScript (ES6+) • Tailwind CSS • Responsive Web Design</td></tr>
-<tr><td><b>Backend</b> <i>(Learning)</i></td><td>Node.js • Express.js • MongoDB • JWT Authentication</td></tr>
-<tr><td><b>Tools & Workflow</b></td><td>Git • GitHub • VS Code • REST API Integration</td></tr>
-<tr><td><b>Core Strengths</b></td><td>Problem Solving • Debugging • Clean Code Practices</td></tr>
+<tr><td>🎨 <b>Frontend</b></td><td>React.js (Hooks, Component Architecture) · JavaScript (ES6+) · Tailwind CSS · Responsive Web Design</td></tr>
+<tr><td>⚙️ <b>Backend</b> <i>(Learning)</i></td><td>Node.js · Express.js · MongoDB · JWT Authentication</td></tr>
+<tr><td>🧰 <b>Tools &amp; Workflow</b></td><td>Git · GitHub · VS Code · REST API Integration</td></tr>
+<tr><td>💡 <b>Core Strengths</b></td><td>Problem Solving · Debugging · Clean Code Practices</td></tr>
 </table>
 
 <br/>
 
 ## 🚀 What I'm Building
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="25%">🗂️<br/><b>MERN CRUD Apps</b><br/><sub>Full-stack applications with complete data operations</sub></td>
 <td align="center" width="25%">🔌<br/><b>REST APIs</b><br/><sub>Backend systems powering real applications</sub></td>
@@ -88,32 +98,36 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 </tr>
 </table>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thick.png" />
 
 ## 📌 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>📚 Book Management System</h4>
-      A full-featured MERN CRUD app — Add, Update, Delete & Search functionality.<br/><br/>
+      A full-featured MERN CRUD app — Add, Update, Delete &amp; Search functionality.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb"/> <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express"/><br/><br/>
       🔗 <a href="#">Repository</a> &nbsp;|&nbsp; 🌐 <a href="#">Live Demo</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🌐 Portfolio Website</h4>
       Personal portfolio built with React + Tailwind CSS, fully responsive design.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss"/><br/><br/>
       🔗 <a href="#">Repository</a> &nbsp;|&nbsp; 🌐 <a href="#">Live Demo</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🌦 Weather App</h4>
       Real-time weather app powered by an external API integration.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/REST%20API-black?style=flat-square&logo=fastapi"/><br/><br/>
       🔗 <a href="#">Repository</a> &nbsp;|&nbsp; 🌐 <a href="#">Live Demo</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>➕ Your Next Project</h4>
       Add your repo link and project details in this slot.<br/><br/>
+      <img src="https://img.shields.io/badge/Coming%20Soon-lightgrey?style=flat-square"/><br/><br/>
       🔗 <a href="#">Repository</a> &nbsp;|&nbsp; 🌐 <a href="#">Live Demo</a>
     </td>
   </tr>
@@ -121,82 +135,31 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 
 > 💡 **Tip:** Replace the `#` links above with your actual repo and live demo links. Adding a small screenshot or GIF for each project makes it even more impressive to recruiters.
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thick.png" />
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamim-01&show_icons=true&theme=merko&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-01&layout=compact&theme=merko&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shamim-01&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2ECC71" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shamim-01&theme=merko&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shamim-01&theme=radical&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamim-01&theme=merko" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shamim-01&theme=radical&row=1&column=7&margin-w=8&no-bg=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamim-01&theme=merko&row=1&column=7&margin-w=8" />
-</p>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thick.png" />
 
----
-
-## 🐍 Contribution Snake
-
-> ⚙️ This will render once you set up the snake animation via GitHub Actions in your repo (setup guide below).
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shamim-01/shamim-01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<details>
-<summary>⚙️ How to set up the Snake Animation</summary>
-
-1. In your `shamim-01/shamim-01` repository, create a file at `.github/workflows/snake.yml`.
-2. Paste the following code:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  push:
-    branches: [ main ]
-  workflow_dispatch: {}
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: shamim-01
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit and push — the SVG will be generated on the `output` branch shortly after.
-
-</details>
-
----
+<div align="center">
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing new projects, collaborations, or learning opportunities. Feel free to reach out on any platform below — I try to reply to everyone.
-
-<div align="center">
+I'm always open to discussing new projects, collaborations, or learning opportunities.
+Feel free to reach out on any platform below — I try to reply to everyone.
 
 <a href="https://facebook.com/shamim.alam.78"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://instagram.com/sha_mim_49"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -207,3 +170,5 @@ I'm always open to discussing new projects, collaborations, or learning opportun
 <i>⭐ Thanks for visiting my profile — feel free to explore my repositories and connect!</i>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,50:2C5364,100:0F2027&height=100&section=footer" />
