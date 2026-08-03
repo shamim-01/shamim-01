@@ -138,23 +138,13 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thick.png" />
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamim-01&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2ECC71" height="165" />
+  <img src="https://streak-stats.demolab.com?user=shamim-01&theme=merko" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shamim-01&theme=radical&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamim-01&theme=merko" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamim-01&theme=radical&row=1&column=7&margin-w=8&no-bg=true" />
-</p>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thick.png" />
-
-<div align="center">
+---
 
 ## 🤝 Let's Connect
 
