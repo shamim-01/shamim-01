@@ -91,10 +91,31 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">🗂️<br/><b>MERN CRUD Apps</b><br/><sub>Full-stack applications with complete data operations</sub></td>
-<td align="center" width="25%">🔌<br/><b>REST APIs</b><br/><sub>Backend systems powering real applications</sub></td>
-<td align="center" width="25%">📱<br/><b>Responsive UI</b><br/><sub>Mobile-first, pixel-perfect React interfaces</sub></td>
-<td align="center" width="25%">🧩<br/><b>Clone Projects</b><br/><sub>Rebuilding real-world products to sharpen skills</sub></td>
+
+<td align="center" width="25%">
+🌐<br/>
+<b>Frontend Projects</b><br/>
+<sub>Building responsive and interactive web applications using HTML, CSS, JavaScript, React, and Tailwind CSS.</sub>
+</td>
+
+<td align="center" width="25%">
+💻<br/>
+<b>Full-Stack MERN Apps</b><br/>
+<sub>Developing scalable web applications with MongoDB, Express.js, React, Node.js, authentication, and CRUD operations.</sub>
+</td>
+
+<td align="center" width="25%">
+🔌<br/>
+<b>RESTful APIs</b><br/>
+<sub>Designing secure backend APIs with Express.js, JWT authentication, CRUD functionality, and MongoDB integration.</sub>
+</td>
+
+<td align="center" width="25%">
+🤖<br/>
+<b>AI-Assisted Development</b><br/>
+<sub>Leveraging AI tools to accelerate development, debugging, and learning while writing clean, maintainable code.</sub>
+</td>
+
 </tr>
 </table>
 
@@ -106,23 +127,26 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
   <tr>
     <td width="50%" valign="top">
       <h4>📚 Book Management System</h4>
-      A full-featured MERN CRUD app — Add, Update, Delete &amp; Search functionality.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb"/> <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express"/><br/><br/>
-      🔗 <a href="(https://github.com/shamim-01/book-management)">Repository</a> &nbsp;|&nbsp; 🌐 <a href="(https://book-management-gold-seven.vercel.app)">Live Demo</a>
+    A Full-Stack Book Management System built with the MERN stack. This application allows users to manage books, borrow/return books, write reviews, track reading progress, and analyze statistics with a beautiful, responsive UI..<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb"/> <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss"/><br/><br/>
+      🔗 <a href="https://github.com/shamim-01/book-management">Repository</a> &nbsp;|&nbsp; 🌐 <a href="https://book-management-gold-seven.vercel.app">Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Portfolio Website</h4>
-      Personal portfolio built with React + Tailwind CSS, fully responsive design.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss"/><br/><br/>
-      🔗 <a href="#">Repository</a> &nbsp;|&nbsp; 🌐 <a href="#">Live Demo</a>
+      <h4>🌐 University Management</h4>
+     A comprehensive University Management System built with the MERN Stack. Features role-based access control for Admin, Teachers, and Students with a modern, responsive dashboard UI.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss"/>
+      <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb"/> <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express"/><br/><br/>
+      🔗 <a href="https://github.com/shamim-01/university_management">Repository</a> &nbsp;|&nbsp; 🌐 <a href="https://university-management-ruddy.vercel.app/dashboard">Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌦 Weather App</h4>
-      Real-time weather app powered by an external API integration.<br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/REST%20API-black?style=flat-square&logo=fastapi"/><br/><br/>
-      🔗 <a href="#">Repository</a> &nbsp;|&nbsp; 🌐 <a href="#">Live Demo</a>
+      <h4>🌦 The Coding Journey Website</h4>
+     The Coding Journey is a platform dedicated to empowering aspiring developers.
+From beginner tutorials to advanced programming concepts, we provide a complete learning experience to help you master coding, build real-world projects, and grow your tech career.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss"/><br/><br/>
+      🔗 <a href="https://github.com/shamim-01/React-project-coding_journey">Repository</a> &nbsp;|&nbsp; 🌐 <a href="https://react-project-coding-journey.vercel.app/">Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h4>➕ Your Next Project</h4>
@@ -132,8 +156,6 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
     </td>
   </tr>
 </table>
-
-> 💡 **Tip:** Replace the `#` links above with your actual repo and live demo links. Adding a small screenshot or GIF for each project makes it even more impressive to recruiters.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:2C5364&height=3" />
 
