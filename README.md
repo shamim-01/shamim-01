@@ -149,8 +149,8 @@ From beginner tutorials to advanced programming concepts, we provide a complete 
       🔗 <a href="https://github.com/shamim-01/React-project-coding_journey">Repository</a> &nbsp;|&nbsp; 🌐 <a href="https://react-project-coding-journey.vercel.app/">Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h4>➕ Your Next Project</h4>
-      Add your repo link and project details in this slot.<br/><br/>
+      <h4>➕ My Next Project</h4>
+      Will be added repo link and project details in this slot.<br/><br/>
       <img src="https://img.shields.io/badge/Coming%20Soon-lightgrey?style=flat-square"/><br/><br/>
       🔗 <a href="#">Repository</a> &nbsp;|&nbsp; 🌐 <a href="#">Live Demo</a>
     </td>
