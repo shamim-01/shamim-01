@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-cover(2).png" alt="Profile Banner" width="100%" />
+<img src="profile.png" alt="Profile Banner" width="100%" />
 
 </div>
 
