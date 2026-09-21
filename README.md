@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ChatGPT github.png" alt="Profile Banner" width="100%" />
+<img src="profile-cover.png" alt="Profile Banner" width="100%" />
 
 </div>
 
@@ -9,11 +9,11 @@
 <div align="center">
 
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shamim+Alam+%F0%9F%91%8B;Frontend+Developer;MERN+Stack+Developer+in+Progress;Turning+Ideas+Into+Clean+Code" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shamim+Alam+%F0%9F%91%8B;Frontend+%26+MERN+Stack+Developer;Data+Analyst+in+Progress+%F0%9F%93%8A;Turning+Ideas+%26+Data+Into+Clean+Results" 
   alt="Typing SVG"
 />
 
-<h3>Frontend Developer &nbsp;·&nbsp; React &amp; Tailwind Specialist &nbsp;·&nbsp; MERN Stack Learner</h3>
+<h3>Frontend Developer &nbsp;·&nbsp; React &amp; Tailwind Specialist &nbsp;·&nbsp; MERN Stack Learner &nbsp;·&nbsp; Data Analyst in Progress</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ECC71?style=for-the-badge&labelColor=1a1a1a" />
@@ -38,18 +38,19 @@
 
 I'm a **Frontend Developer** who loves building fast, responsive, and user-friendly web applications with **React.js** and **Tailwind CSS**. My goal isn't just to make things work — it's to write **clean, reusable, and scalable** code.
 
-I'm currently leveling up in the **MERN Stack** so I can design, build, and deploy complete full-stack products on my own.
+I'm currently leveling up in the **MERN Stack** so I can design, build, and deploy complete full-stack products on my own. Alongside development, I've also been learning **Data Analysis** — working with **Excel, Power BI, and PostgreSQL** to clean messy datasets, build dashboards, and turn raw numbers into insights people can actually use.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### ⚡ Quick Facts
-- 🎯 **Focus:** Frontend + MERN Stack
+- 🎯 **Focus:** Frontend + MERN Stack + Data Analysis
 - 🌱 **Currently mastering:** Node.js, Express.js, MongoDB, JWT
+- 📊 **Also learning:** Excel, Power BI, PostgreSQL, Data Cleaning & Dashboards
 - 💬 **Best at:** React Hooks, Component Architecture, Tailwind CSS
-- 🎓 **Learning style:** Project-based, real-world clones
-- 🤝 **Open to:** Internship / Junior Frontend roles
+- 🎓 **Learning style:** Project-based, real-world clones & datasets
+- 🤝 **Open to:** Internship / Junior Frontend / Data Analyst roles
 
 </td>
 <td width="50%" valign="top">
@@ -61,6 +62,9 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 | React.js + Tailwind | 🟩🟩🟩🟩🟨 Comfortable |
 | Node.js + Express.js | 🟩🟩🟨⬜⬜ In progress |
 | MongoDB + JWT Auth | 🟩🟩🟨⬜⬜ In progress |
+| Excel + Data Cleaning | 🟩🟩🟩🟨⬜ Comfortable |
+| Power BI Dashboards | 🟩🟩🟨⬜⬜ In progress |
+| PostgreSQL (SQL) | 🟩🟩🟨⬜⬜ In progress |
 | Full MERN Deployment | 🟩⬜⬜⬜⬜ Next milestone |
 
 </td>
@@ -72,7 +76,13 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 ## 🛠 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,postgres,git,github,vscode&perline=6&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 <br/>
@@ -81,8 +91,9 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 <tr><th align="left" width="22%">Category</th><th align="left">Technologies</th></tr>
 <tr><td>🎨 <b>Frontend</b></td><td>React.js (Hooks, Component Architecture) · JavaScript (ES6+) · Tailwind CSS · Responsive Web Design</td></tr>
 <tr><td>⚙️ <b>Backend</b> <i>(Learning)</i></td><td>Node.js · Express.js · MongoDB · JWT Authentication</td></tr>
+<tr><td>📊 <b>Data Analysis</b> <i>(Learning)</i></td><td>Excel (formulas, pivot tables, data cleaning) · Power BI (dashboards, DAX, reports) · PostgreSQL (queries, joins, data modeling)</td></tr>
 <tr><td>🧰 <b>Tools &amp; Workflow</b></td><td>Git · GitHub · VS Code · REST API Integration</td></tr>
-<tr><td>💡 <b>Core Strengths</b></td><td>Problem Solving · Debugging · Clean Code Practices</td></tr>
+<tr><td>💡 <b>Core Strengths</b></td><td>Problem Solving · Debugging · Clean Code Practices · Data Cleaning</td></tr>
 </table>
 
 <br/>
@@ -92,25 +103,31 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 <table width="100%">
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 🌐<br/>
 <b>Frontend Projects</b><br/>
 <sub>Building responsive and interactive web applications using HTML, CSS, JavaScript, React, and Tailwind CSS.</sub>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 💻<br/>
 <b>Full-Stack MERN Apps</b><br/>
 <sub>Developing scalable web applications with MongoDB, Express.js, React, Node.js, authentication, and CRUD operations.</sub>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 🔌<br/>
 <b>RESTful APIs</b><br/>
 <sub>Designing secure backend APIs with Express.js, JWT authentication, CRUD functionality, and MongoDB integration.</sub>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
+📊<br/>
+<b>Data Cleaning & Dashboards</b><br/>
+<sub>Cleaning messy datasets and building interactive dashboards and reports with Excel, Power BI, and PostgreSQL.</sub>
+</td>
+
+<td align="center" width="20%">
 🤖<br/>
 <b>AI-Assisted Development</b><br/>
 <sub>Leveraging AI tools to accelerate development, debugging, and learning while writing clean, maintainable code.</sub>
@@ -149,9 +166,9 @@ From beginner tutorials to advanced programming concepts, we provide a complete 
       🔗 <a href="https://github.com/shamim-01/React-project-coding_journey">Repository</a> &nbsp;|&nbsp; 🌐 <a href="https://react-project-coding-journey.vercel.app/">Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h4>➕ My Next Project</h4>
-      Will be added repo link and project details in this slot.<br/><br/>
-      <img src="https://img.shields.io/badge/Coming%20Soon-lightgrey?style=flat-square"/><br/><br/>
+      <h4>📊 Sales Data Cleaning & Dashboard</h4>
+      Cleaned and structured a raw sales dataset in Excel, then loaded it into PostgreSQL for querying and built an interactive Power BI dashboard to track revenue, top products, and monthly trends.<br/><br/>
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/><br/><br/>
       🔗 <a href="#">Repository</a> &nbsp;|&nbsp; 🌐 <a href="#">Live Demo</a>
     </td>
   </tr>
@@ -176,7 +193,7 @@ From beginner tutorials to advanced programming concepts, we provide a complete 
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing new projects, collaborations, or learning opportunities.
+I'm always open to discussing new projects, collaborations, or learning opportunities — in web development or data analysis.
 Feel free to reach out on any platform below — I try to reply to everyone.
 
 <a href="https://facebook.com/shamim.alam.78"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
