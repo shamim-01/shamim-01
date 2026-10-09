@@ -13,7 +13,7 @@
   alt="Typing SVG"
 />
 
-<h3>Frontend Developer &nbsp;·&nbsp; React &amp; Tailwind Specialist &nbsp;·&nbsp; MERN Stack Learner &nbsp;·&nbsp; Data Analyst in Progress</h3>
+<h3>Frontend Developer &nbsp;·&nbsp; React , Next &amp; Tailwind Specialist &nbsp;·&nbsp; MERN Stack Learner &nbsp;·&nbsp; Data Analyst in Progress</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ECC71?style=for-the-badge&labelColor=1a1a1a" />
@@ -36,7 +36,7 @@
 
 ## 🧭 About Me
 
-I'm a **Frontend Developer** who loves building fast, responsive, and user-friendly web applications with **React.js** and **Tailwind CSS**. My goal isn't just to make things work — it's to write **clean, reusable, and scalable** code.
+I'm a **Frontend Developer** who loves building fast, responsive, and user-friendly web applications with **React.js** , **Next.js** and **Tailwind CSS**. My goal isn't just to make things work — it's to write **clean, reusable, and scalable** code.
 
 I'm currently leveling up in the **MERN Stack** so I can design, build, and deploy complete full-stack products on my own. Alongside development, I've also been learning **Data Analysis** — working with **Excel, Power BI, and PostgreSQL** to clean messy datasets, build dashboards, and turn raw numbers into insights people can actually use.
 
@@ -46,7 +46,7 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 
 ### ⚡ Quick Facts
 - 🎯 **Focus:** Frontend + MERN Stack + Data Analysis
-- 🌱 **Currently mastering:** Node.js, Express.js, MongoDB, JWT
+- 🌱 **Currently mastering:** Next.js Node.js, Express.js, MongoDB, JWT
 - 📊 **Also learning:** Excel, Power BI, PostgreSQL, Data Cleaning & Dashboards
 - 💬 **Best at:** React Hooks, Component Architecture, Tailwind CSS
 - 🎓 **Learning style:** Project-based, real-world clones & datasets
@@ -59,7 +59,7 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 | Skill | Progress |
 |---|---|
 | HTML, CSS, JS (ES6+) | 🟩🟩🟩🟩🟩 Solid |
-| React.js + Tailwind | 🟩🟩🟩🟩🟨 Comfortable |
+| React.js + Next.js + Tailwind | 🟩🟩🟩🟨🟨 Comfortable |
 | Node.js + Express.js | 🟩🟩🟨⬜⬜ In progress |
 | MongoDB + JWT Auth | 🟩🟩🟨⬜⬜ In progress |
 | Excel + Data Cleaning | 🟩🟩🟩🟨⬜ Comfortable |
@@ -76,7 +76,7 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 ## 🛠 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,postgres,git,github,vscode&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express,mongodb,postgres,git,github,vscode&perline=6&theme=dark" />
 
 <br/><br/>
 
@@ -89,7 +89,7 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 
 <table width="100%">
 <tr><th align="left" width="22%">Category</th><th align="left">Technologies</th></tr>
-<tr><td>🎨 <b>Frontend</b></td><td>React.js (Hooks, Component Architecture) · JavaScript (ES6+) · Tailwind CSS · Responsive Web Design</td></tr>
+<tr><td>🎨 <b>Frontend</b></td><td>React.js (Hooks, Component Architecture) · Next.js . JavaScript (ES6+) · Tailwind CSS · Responsive Web Design</td></tr>
 <tr><td>⚙️ <b>Backend</b> <i>(Learning)</i></td><td>Node.js · Express.js · MongoDB · JWT Authentication</td></tr>
 <tr><td>📊 <b>Data Analysis</b> <i>(Learning)</i></td><td>Excel (formulas, pivot tables, data cleaning) · Power BI (dashboards, DAX, reports) · PostgreSQL (queries, joins, data modeling)</td></tr>
 <tr><td>🧰 <b>Tools &amp; Workflow</b></td><td>Git · GitHub · VS Code · REST API Integration</td></tr>
@@ -106,7 +106,7 @@ I'm currently leveling up in the **MERN Stack** so I can design, build, and depl
 <td align="center" width="20%">
 🌐<br/>
 <b>Frontend Projects</b><br/>
-<sub>Building responsive and interactive web applications using HTML, CSS, JavaScript, React, and Tailwind CSS.</sub>
+<sub>Building responsive and interactive web applications using HTML, CSS, JavaScript, React, Next and Tailwind CSS.</sub>
 </td>
 
 <td align="center" width="20%">
